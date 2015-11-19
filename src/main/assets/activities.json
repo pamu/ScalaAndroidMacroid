@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Material Design List",
+    "description": "This example shows how to use a list with the AppBar and FabButton from the Android Support Design Library",
+    "className": "com.fortysevendeg.scala.android.ui.materiallist.MaterialListActivity",
+    "minApi": 14,
+    "targetApi": 21,
+    "scalaLevel": 1,
+    "androidLevel": 2,
+    "user" : {
+      "avatar": "http://www.47deg.com/assets/img/company/profile-javi.jpg",
+      "name": "Javi Pacheco",
+      "twitter": "@javielinux"
+    }
+  },
+  {
+    "name": "Ripple Background",
+    "description": "This example demonstrates usage of the new Ripple animations available in Lollipop and how to create several animations in serial using Macroid",
+    "className": "com.fortysevendeg.scala.android.ui.ripplebackground.RippleBackgroundActivity",
+    "minApi": 21,
+    "targetApi": 21,
+    "scalaLevel": 1,
+    "androidLevel": 2,
+    "user" : {
+      "avatar": "http://www.47deg.com/assets/img/company/profile-javi.jpg",
+      "name": "Javi Pacheco",
+      "twitter": "@javielinux"
+    }
+  },
+  {
+    "name": "Path Morphing",
+    "description": "This example demonstrates a new drawable created for this project called PathMorphDrawable, used for path segment transformations in Canvas",
+    "className": "com.fortysevendeg.scala.android.ui.pathmorphing.PathMorphingActivity",
+    "minApi": 14,
+    "targetApi": 14,
+    "scalaLevel": 2,
+    "androidLevel": 2,
+    "user" : {
+      "avatar": "http://www.47deg.com/assets/img/company/profile-paco.jpg",
+      "name": "Francisco Díaz",
+      "twitter": "@francisco_dr"
+    }
+  },
+  {
+    "name": "Circular Reveal",
+    "description": "This example demonstrates Lollipop's new Circular Reveal and how it can be used in a Fragment. On non Lollipop devices it will fallback to using a fade animation",
+    "className": "com.fortysevendeg.scala.android.ui.circularreveal.CircularRevealActivity",
+    "minApi": 14,
+    "targetApi": 21,
+    "scalaLevel": 1,
+    "androidLevel": 1,
+    "user" : {
+      "avatar": "http://www.47deg.com/assets/img/company/profile-javi.jpg",
+      "name": "Javi Pacheco",
+      "twitter": "@javielinux"
+    }
+  },
+  {
+    "name": "Google Maps",
+    "description": "A simple example of using Google Maps in a project. Includes - changing map type and adding markers",
+    "className": "com.fortysevendeg.scala.android.ui.googlemaps.GoogleMapsActivity",
+    "minApi": 14,
+    "targetApi": 14,
+    "scalaLevel": 1,
+    "androidLevel": 2,
+    "user" : {
+      "avatar": "http://www.47deg.com/assets/img/company/profile-fede.jpg",
+      "name": "Fede Fernández",
+      "twitter": "@fede_fdz"
+    }
+  },
+  {
+    "name": "Text Styles",
+    "description": "A basic example to demonstrate project setup and define layouts and styles using Macroid",
+    "className": "com.fortysevendeg.scala.android.ui.textstyles.TextStylesActivity",
+    "minApi": 14,
+    "targetApi": 14,
+    "scalaLevel": 1,
+    "androidLevel": 1,
+    "user" : {
+      "avatar": "http://www.47deg.com/assets/img/company/profile-javi.jpg",
+      "name": "Javi Pacheco",
+      "twitter": "@javielinux"
+    }
+  },
+  {
+    "name": "Akka Simon",
+    "description": "Using the classic game Simon, this example demonstrates the use of Akka to communicate between fragments",
+    "className": "com.fortysevendeg.scala.android.ui.akkasimon.AkkaSimonActivity",
+    "minApi": 14,
+    "targetApi": 14,
+    "scalaLevel": 3,
+    "androidLevel": 2,
+    "user" : {
+      "avatar": "http://www.47deg.com/assets/img/company/profile-juanpe.jpg",
+      "name": "Juan Pedro Moreno",
+      "twitter": "@juanpedromoreno"
+    }
+  },
+  {
+    "name": "Forecast API Request",
+    "description": "This example demonstrates how to call an endpoint with the use of Future, parse the json from the response and show the requested data in a view",
+    "className": "com.fortysevendeg.scala.android.ui.apirequest.ForecastApiRequestActivity",
+    "minApi": 14,
+    "targetApi": 14,
+    "scalaLevel": 2,
+    "androidLevel": 1,
+    "user" : {
+      "avatar": "http://www.47deg.com/assets/img/company/profile-fede.jpg",
+      "name": "Fede Fernández",
+      "twitter": "@fede_fdz"
+    }
+  }
+]

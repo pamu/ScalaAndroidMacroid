@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scala API Demos</string>
+    <string name="title_ripple_background">Ripple Background</string>
+    <string name="title_text_styles">Text Styles</string>
+    <string name="title_circular_reveal_styles">Circular Reveal</string>
+    <string name="material_list">Material Design List</string>
+    <string name="title_path_morphing">Path Morphing</string>
+    <string name="title_select_icon">Select icon</string>
+    <string name="title_select_color">Select color</string>
+    <string name="title_select_stroke">Stroke: %1$s dp</string>
+    <string name="title_select_size">Size: %1$s x %2$s</string>
+    <string name="title_map">Google Maps</string>
+    <string name="marker_map_title">47 Degrees</string>
+    <string name="marker_map_message">Reactive, scalable software solutions.</string>
+    <string name="marker_map_sample_title">Sample Marker</string>
+    <string name="marker_map_sample_message">This is a sample marker</string>
+    <string name="map_satellite">Satellite</string>
+    <string name="map_normal">Normal</string>
+    <string name="map_hybrid">Hybrid</string>
+    <string name="map_terrain">Terrain</string>
+
+    <string name="scala_level">Scala:</string>
+    <string name="android_level">Android:</string>
+
+    <string name="beginning_level">Beginner</string>
+    <string name="intermediate_level">Intermediate</string>
+    <string name="advanced_level">Advanced</string>
+
+    <string name="min_api_not_available">You need an Android version greater than</string>
+    <string name="min_api_required">API %s</string>
+    <string name="menu_add_marker">Add Marker</string>
+    <string name="menu_clear_map">Clear Map</string>
+
+    <string name="activity_not_found">Activity not found</string>
+    <string name="json_file_not_found">JSON file not found</string>
+    <string name="malformed_json_file">Malformed JSON file</string>
+    <string name="unexpected_error">An unexpected error has occurred</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, vix vocent suscipit no. Definitionem delicatissimi at pri. Pro omnis civibus in, oporteat senserit instructior eos in. Ne usu tale definitionem, quo consetetur temporibus definitionem et, assum putent dolores mei in. No aliquam detraxit pro, quem eloquentiam id pro.</string>
+    <string name="lorem_ipsum_large">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</string>
+
+    <!-- Akka Simon String resources -->
+    <string name="simon_title">Akka Simon</string>
+    <string name="simon_welcome">Welcome to\nAkka Simon</string>
+    <string name="simon_rounds_message">Your Score\n%s</string>
+    <string name="simon_start">Go!</string>
+    <string name="simon_round">Round</string>
+    <string name="simon_round_counter">Round: %s</string>
+
+    <!-- Circular Reveal String resources -->
+    <string name="circular_reveal_title">Technics</string>
+
+    <!-- Forecast String resources -->
+    <string name="menu_about_icons">About</string>
+    <string name="forecast_attribution">
+        The weather source of this demo is OpenWeatherMap
+        \n\nAll data provided by OpenWeatherMap is distributed under terms of the Creative Commons license http://creativecommons.org/licenses/by-sa/2.0/.
+        \n\n\nIcons created by Yannick (http://www.flaticon.com/authors/yannick) from http://www.flaticon.com.
+        \n\nLicensed under Creative Commons BY 3.0 (http://creativecommons.org/licenses/by/3.0/)</string>
+    <string name="title_forecast_api_request">Forecast API Request</string>
+    <string name="try_again_button">Try again</string>
+    <string name="loading_location_message">Waiting for a valid location</string>
+    <string name="loading_forecast_message">Loading weather</string>
+    <string name="try_sample_location_button">Too long? Try a sample location</string>
+    <string name="error_message_api_request_default">Unknown error</string>
+    <string name="error_message_api_request_location_api">Error getting location</string>
+    <string name="error_message_api_request_loading">Error loading weather</string>
+
+    <!-- Material List -->
+    <string name="material_list_add_item">Add new item</string>
+
+</resources>
